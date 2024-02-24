@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yawNJIT
-- 👀 I’m interested in Cybersecurity and Privacy 
+- 👀 I’m interested in Cybersecurity, Networking, Application (Code) Security and Privacy 
 - 🌱 I’m currently studying at New Jersey institute of Technology (NJIT)
 - 💞️ I’m looking to collaborate on cybersecurity projects
 - 📫 How to reach me: ya323@njit.edu
