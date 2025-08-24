@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yaw Afuakwah
+- 👋 *Hi, I’m Yaw Afuakwah
 - 👀 I’m interested in Cybersecurity, AI/ML, Networking, Application (Code) Security and Privacy 
 - 🌱 I’m currently studying at Marymount University, Arlington VA.
 - 💞️ I’m looking to collaborate on cybersecurity projects
